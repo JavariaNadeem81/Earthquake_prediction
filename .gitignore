@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But do not ignore this file
+!README.md
+!.gitignore
+!Earthquake_data.csv
+!Earthquake_data_cleaned.csv
+!Earthquake.ipynb
+!C:\Users\HP\Desktop\Bio_Pyhton\Penguins_ML
+# Common ignores
+__pycache__/
+.vscode/
+*.log
+.env
